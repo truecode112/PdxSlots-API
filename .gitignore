@@ -1,0 +1,9 @@
+/PdxSlots.API/appsettings.Staging.json
+/PdxSlots.API/appsettings.Development.json
+/PdxSlots.API/appsettings.json
+/PdxSlots.API/appsettings.Production.json
+
+/bin
+/obj
+bin
+obj
